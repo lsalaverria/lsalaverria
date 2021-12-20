@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lsalaverria
 - 👀 I’m interested in rocket design and propulsion research
 - 🌱 I’m currently learning CFD and CEM
-- 💞️ I’m looking to collaborate on MHD projects
+- 💞️ I’m looking to collaborate on liquid, electric, and plasma propulsion
 - 📫 How to reach me salaverria.aerospace@gmail.com
 
 <!---
